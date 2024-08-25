@@ -1,5 +1,5 @@
 {
-  "name": "react-test-setup",
+  "name": "react-vite-jest-ts-setup",
   "private": true,
   "version": "0.0.0",
   "type": "module",
