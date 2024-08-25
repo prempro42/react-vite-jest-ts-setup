@@ -1,3 +1,7 @@
-# Vite-test-setup
+# react-vite-jest-ts-setup
 
-Tests setup with Jest and React-testing-library in VIte+Typescript application
+React app test setup with Jest and React-testing-library + Vite + Typescript
+
+# Blog post
+
+[Testing a React App Built with Vite Using Jest by Teyim Asobo](https://dev.to/teyim/effortless-testing-setup-for-react-with-vite-typescript-jest-and-react-testing-library-1c48)
